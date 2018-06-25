@@ -1,0 +1,4 @@
+name: 'search_rename'
+type: module
+core: 8.x
+package: 'kbd4brkfst'

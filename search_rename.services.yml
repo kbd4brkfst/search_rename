@@ -1,0 +1,5 @@
+services:
+  search_rename.route_subscriber:
+    class: Drupal\search_rename\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
